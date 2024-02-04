@@ -24,7 +24,7 @@ h1 {
     font-size: 70px;
     line-height: 84px;
     font-weight: bold;
-    text-transform: uppercase;
+    text-transform: lowercase;
     margin-top: 28px;
 }
 
